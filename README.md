@@ -4,10 +4,7 @@ This Streamlit application leverages AI agents (built with Langchain/Langgraph) 
 
 ## 🎥 Preview
 
-<video width="100%" controls>
-  <source src="assets/preview-video.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[![Watch the demo](https://img.youtube.com/vi/qoboTyZ8leo/0.jpg)](https://www.youtube.com/watch?v=qoboTyZ8leo)
 
 
 ## ✨ Features
