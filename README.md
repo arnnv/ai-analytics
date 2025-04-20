@@ -2,6 +2,14 @@
 
 This Streamlit application leverages AI agents (built with Langchain/Langgraph) to automatically analyze uploaded CSV data and generate relevant visualizations.
 
+## 🎥 Preview
+
+<video width="100%" controls>
+  <source src="assets/preview-video.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+
 ## ✨ Features
 
 *   **CSV Upload:** Easily upload your data via a simple interface.
